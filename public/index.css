@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;  
+    font-family: Arial, sans-serif;
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+h1 {
+    margin-bottom: 40px;
+}
+
+img {
+    max-width: 600px;
+    max-height: 400px; 
+}
